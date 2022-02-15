@@ -1,3 +1,4 @@
+English | [Russian](https://github.com/SashaTalk/SashaTalk/blob/main/README_RU.md)
 ### Hi there, I'm SashaTalk
 
 About me:
@@ -7,7 +8,7 @@ About me:
 - 👯 I’m looking to collaborate on **repos with `rm -rf /*` in code**
 - 🤔 I’m looking for help with **nothing**
 - 💬 Ask me about **everything**
-- 📫 How to reach me: **VK, Telegram with same nickname**
+- 📫 How to reach me: **[VK](https://vk.com/sashatalk), [Telegram](https://t.me/sashatalk) with same nickname**
 - 😄 Pronouns: **sanina**
 - ⚡ Fun fact: **I am Russian**
 
