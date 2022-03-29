@@ -1,7 +1,8 @@
-English | [Russian](https://github.com/SashaTalk/SashaTalk/blob/main/README_RU.md)
-### Hi there, I'm SashaTalk
+English | [Русский](https://github.com/SashaTalk/SashaTalk/blob/main/README_RU.md)
 
-About me:
+# Hi there, I'm SashaTalk
+
+## About me
 
 - 🔭 I’m currently working on **Say Online**
 - 🌱 I’m currently learning **Batch** *lol*
@@ -12,4 +13,4 @@ About me:
 - 😄 Pronouns: **sanina**
 - ⚡ Fun fact: **I am Russian**
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=sashatalk&show_icons=true&locale=en&alt=sashatalk)
+![My Stats](https://github-readme-stats.vercel.app/api?username=sashatalk&show_icons=true&locale=en)
